@@ -31,50 +31,33 @@ Practice DSA consistently for placements
 🛠 Tech Stack
 👩‍💻 Programming Languages
 
-C++
-
-Java
-
-Kotlin
-
-Python
-
-TypeScript
+C++,
+Java,
+Kotlin,
+Python,
+TypeScript,
 
 📱 Android Development
 
 Activities & Fragments
-
 Intents & Pending Intents
-
 Navigation Drawer & ViewPager
-
 Shared Preferences
-
 Internal/External Storage
-
 Notification & AlarmManager
-
 Custom Views & UI Design
 
 ☁️ Cloud & Virtualization
-
 OpenStack
-
 VM Migration (Pre-copy / Post-copy)
-
 Docker Basics
-
 Kubernetes Overview
-
 GCP & Azure Deployment
 
 🤖 AI / ML
 
 Image Colorization
-
 Image Value Prediction
-
 Sentiment Analysis (NLP)
 
 📌 Highlight Projects
