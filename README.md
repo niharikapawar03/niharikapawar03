@@ -39,26 +39,26 @@ TypeScript,
 
 📱 Android Development
 
-Activities & Fragments
-Intents & Pending Intents
-Navigation Drawer & ViewPager
-Shared Preferences
-Internal/External Storage
-Notification & AlarmManager
-Custom Views & UI Design
+Activities & Fragments,
+Intents & Pending Intents,
+Navigation Drawer & ViewPager,
+Shared Preferences,
+Internal/External Storage,
+Notification & AlarmManager,
+Custom Views & UI Design,
 
 ☁️ Cloud & Virtualization
-OpenStack
-VM Migration (Pre-copy / Post-copy)
-Docker Basics
-Kubernetes Overview
-GCP & Azure Deployment
+OpenStack,
+VM Migration (Pre-copy / Post-copy),
+Docker Basics,
+Kubernetes Overview,
+GCP & Azure Deployment,
 
 🤖 AI / ML
 
-Image Colorization
-Image Value Prediction
-Sentiment Analysis (NLP)
+Image Colorization,
+Image Value Prediction,
+Sentiment Analysis (NLP),
 
 📌 Highlight Projects
 🐾 Pet Care App (Android – Kotlin)
@@ -116,4 +116,4 @@ Comfortable explaining technical concepts
 🔗 LinkedIn:
 https://www.linkedin.com/in/niharika-pawar/
 
-📧 Email: (Add your professional email here)
+📧 Email: niharikapawar02@gmail.com
